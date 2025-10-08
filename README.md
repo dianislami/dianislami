@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an informatics student at Syiah Kuala University with a keen interest in software engineering and web development. I love turning ideas into reality through code, and I enjoy creating solutions that make life easier and more enjoyable—especially for travelers and digital explorers!
+I'm an informatics student at Syiah Kuala University with a keen interest in software engineering and web development. I love turning ideas into reality through code, and I enjoy creating solutions that make life easier and more enjoyable, especially for travelers and digital explorers!
 
 ## 🛠️ Languages & Tools
 

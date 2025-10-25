@@ -25,17 +25,6 @@ I'm an informatics student at Syiah Kuala University with a keen interest in sof
 - **Interests:**  
   Software Development • Web Development • UI/UX Design
 
-## 🌟 Favorite Project
-
-### [SabangKarsa](#)
-A web platform dedicated to making travel to Sabang Island (Aceh, Indonesia) seamless and memorable.  
-**SabangKarsa** provides 3 main services for tourists:
-- 🏨 Hotel Booking
-- 🚗 Car/Bike Rental
-- 🧑‍💼 Tour Guide Services
-
-Whether you're planning your trip or looking for the best local experience, Sabangkarsa helps you manage accommodations, transportation, and guided tours—all in one place.
-
 ## 📈 Contribution Activity
 
 <p align="center">
